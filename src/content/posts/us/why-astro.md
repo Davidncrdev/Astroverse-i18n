@@ -1,5 +1,5 @@
 ---
-title: Why choose astro over another web framework
+title: Bie
 description: astro is an all-in-one web framework for building fast, content-focused websites. Learn more.
 category:
   - Three
